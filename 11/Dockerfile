@@ -1,4 +1,4 @@
-FROM bcit/openshift-alpine:3.9
+FROM bcit/alpine:3.9
 LABEL maintainer="jesse@weisner.ca, chriswood.ca@gmail.com"
 
 ENV NODE_VERSION 11.12.0
